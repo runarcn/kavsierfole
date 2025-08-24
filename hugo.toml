@@ -1,0 +1,7 @@
+baseURL = 'https://kavsierfole.no/'
+languageCode = 'no-NB'
+theme = 'ananke'
+title = 'kavsierfole'
+sectionPagesMenu = 'main'
+show_recent_posts = false
+
