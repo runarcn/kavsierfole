@@ -14,4 +14,6 @@ title = 'tabell'
 | Tobias    |     0 |
 | Emilie    |     0 |
 
+Totalt antall fole: 9
+
 *Sist oppdatert: 19.08*
