@@ -1,6 +1,7 @@
 +++
-title = 'regler'
+title = 'Regler'
 menus = ['main', 'footer']
+featured_image = 'cover.png'
 +++
 # Hvordan spille kav sier fole
 Spillet er enkelt. I forkant av hver fellestime med KAV kan du sende melding til Runar med hvor mange ganger du tror KAV kommer til å si "fole" i løpet av forelesninga. Treffer du helt presist får du 2 (to) poeng, og hvis du er 1 unna får du 1 (ett) poeng.  Vinneren av spillet er den som får samlet opp flest poeng før semesteret er over.
@@ -16,3 +17,4 @@ Etter hver forelesning blir det publisert en oppdatert poengoversikt på nettsid
 1. Man må sende inn antallet fole-er man gjetter *før* forelesninga begynner
 2. Det er ikke lov å åpenbart påvirke KAV, men det betyr ikke at man ikke kan være litt sneaky. Å spørre om noe er "fole bra" godkjennes ikke, men å nevne noe kult i håp om at KAV sier det er "fole bra" er lov.
 3. Man kan, under null omstendighet, la KAV vite om spillet. Dette er kjempeviktig!!!!!!!!
+ 

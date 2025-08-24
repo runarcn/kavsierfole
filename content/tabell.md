@@ -1,9 +1,8 @@
 +++
 menus = ['main', 'footer']
-title = 'tabell'
+title = 'Tabell'
+featured_image = 'cover.png'
 +++
-# Tabell
-
 | Navn      | Poeng |
 | :-------- | ----: |
 | Ola       |     2 |
