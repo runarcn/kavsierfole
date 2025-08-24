@@ -5,3 +5,6 @@ title = 'kavsierfole'
 sectionPagesMenu = 'main'
 show_recent_posts = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
