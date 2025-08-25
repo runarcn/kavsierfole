@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/regler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "regler"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "active": "c8d0ec9438df11fc",
   "lastOpenFiles": [
+    "content/tabell.md",
+    "content/regler.md",
+    "content/_index.md",
     "content/about.md",
     "content/contact.md",
     "public/tabell/index.html",
@@ -175,7 +178,6 @@
     "public/hvordan-spille/index.html",
     "public/hvordan-spille",
     "content/posts/tabell.md",
-    "content/tabell.md",
     "content/hvordan-spille.md",
     "public/contact/index.html",
     "public/contact",
