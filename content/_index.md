@@ -11,7 +11,7 @@ Ved et såpass lite innskudd som 10 kroner kan du sikre deg en såpass stor meng
 
 Bli med på kavsierfole-spillet idag!
 
-[regler](https://kavsierfole.no/regler/) | [ledelse](https://kavsierfole.no/tabell/) 
+[regler & hvordan bli med](https://kavsierfole.no/regler/) | [ledelse](https://kavsierfole.no/tabell/) 
 
 (denne nettsida sponset av raid shadow legends)
 
