@@ -31,4 +31,4 @@ featured_image = 'cover.png'
 
 Totalt antall fole: 56
 
-*Sist oppdatert: 26.08*
+*Sist oppdatert: 02.09*
