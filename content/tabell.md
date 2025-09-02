@@ -29,6 +29,6 @@ featured_image = 'cover.png'
 | Sune | 0 |
 
 
-Totalt antall fole: 26
+Totalt antall fole: 56
 
 *Sist oppdatert: 26.08*

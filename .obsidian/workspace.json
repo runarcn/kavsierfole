@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Posts/02.09.md",
+                "file": "content/tabell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.09"
+              "title": "tabell"
             }
           }
         ]
@@ -168,15 +168,15 @@
   },
   "active": "c8d0ec9438df11fc",
   "lastOpenFiles": [
+    "content/regler.md",
+    "content/Posts/02.09.md",
     "public/posts/02.09/index.html",
     "public/posts/02.09",
     "content/Posts/26.08.md",
-    "content/Posts/02.09.md",
     "content/Posts/01.09.md",
     "content/tabell.md",
     "public/posts/26.08/index.html",
     "public/posts/26.08",
-    "content/regler.md",
     "content/_index.md",
     "public/nyheter/index.xml",
     "public/nyheter/25.08/index.html",
@@ -184,7 +184,6 @@
     "public/nyheter/01.09/index.html",
     "public/nyheter/01.09",
     "public/nyheter/page/1/index.html",
-    "public/nyheter/page/1",
     "content/Oppdateringer/25.08.md",
     "content/posts/Untitled.md",
     "content/Oppdateringer/01.09.md",
