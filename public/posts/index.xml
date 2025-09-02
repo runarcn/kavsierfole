@@ -6,21 +6,14 @@
     <description>Recent content in Posts on kavsierfole</description>
     <generator>Hugo</generator>
     <language>no-NB</language>
-    <lastBuildDate>Sun, 24 Aug 2025 19:07:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 13:37:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tabell</title>
-      <link>http://localhost:1313/posts/tabell/</link>
-      <pubDate>Sun, 24 Aug 2025 19:07:09 +0200</pubDate>
-      <guid>http://localhost:1313/posts/tabell/</guid>
-      <description>&lt;h1 id=&#34;tabell&#34;&gt;Tabell&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Navn&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Poeng&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ola&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ingebrigt&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Frithjof&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Petter&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Runar&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Tobias&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Emilie&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;em&gt;Sist oppdatert: 19.08&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hvordan spille kav sier fole</title>
-      <link>http://localhost:1313/posts/hvordan-spille/</link>
-      <pubDate>Sun, 24 Aug 2025 18:39:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/hvordan-spille/</guid>
-      <description>&lt;h1 id=&#34;hvordan-spille-kav-sier-fole&#34;&gt;Hvordan spille kav sier fole&lt;/h1&gt;&#xA;&lt;p&gt;Spillet er enkelt. I forkant av hver fellestime med KAV kan du sende melding til Runar med hvor mange ganger du tror KAV kommer til å si &amp;ldquo;fole&amp;rdquo; i løpet av forelesninga. Treffer du helt presist får du 2 (to) poeng, og hvis du er 1 unna får du 1 (ett) poeng.  Vinneren av spillet er den som får samlet opp flest poeng før semesteret er over.&lt;/p&gt;</description>
+      <title>Sesongens andre time &#43; Den første ukas fole fun fact!</title>
+      <link>http://localhost:1313/posts/26.08/</link>
+      <pubDate>Mon, 25 Aug 2025 13:37:40 +0200</pubDate>
+      <guid>http://localhost:1313/posts/26.08/</guid>
+      <description>&lt;h1 id=&#34;velkommen-til-ukas-innslag-av-kav-sier-fole&#34;&gt;Velkommen til ukas innslag av kav sier fole!&lt;/h1&gt;&#xA;&lt;p&gt;Ideen til kavsierfole.no ble offisielt født etter første satslæretime, og nå, etter mye blod, svette, og slit, er den kommet til verden! Her får du kavsierfole-spillet, fole fun facts, og ukentlige oppdateringer om hva som skjer i foleverden. Hvilken KAV er du idag? Hvilke av disse satslærereglene stemmer og hvilke er bare oppspinn? Ikke vet vi, men kanskje vi lærer det i løpet av året!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/regler.md",
+                "file": "content/Posts/02.09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "regler"
+              "title": "02.09"
             }
           }
         ]
@@ -168,31 +168,37 @@
   },
   "active": "c8d0ec9438df11fc",
   "lastOpenFiles": [
+    "content/Posts/26.08.md",
+    "content/Posts/02.09.md",
+    "content/Posts/01.09.md",
     "content/tabell.md",
+    "public/posts/26.08/index.html",
+    "public/posts/26.08",
     "content/regler.md",
     "content/_index.md",
+    "public/nyheter/index.xml",
+    "public/nyheter/25.08/index.html",
+    "public/nyheter/25.08",
+    "public/nyheter/01.09/index.html",
+    "public/nyheter/01.09",
+    "public/nyheter/page/1/index.html",
+    "public/nyheter/page/1",
+    "public/nyheter/page",
+    "content/Oppdateringer/25.08.md",
+    "content/posts/Untitled.md",
+    "content/Oppdateringer/01.09.md",
+    "content/Untitled.md",
     "content/about.md",
     "content/contact.md",
-    "public/tabell/index.html",
-    "public/tabell",
-    "public/hvordan-spille/index.html",
-    "public/hvordan-spille",
     "content/posts/tabell.md",
     "content/hvordan-spille.md",
-    "public/contact/index.html",
-    "public/contact",
-    "public/about/index.html",
-    "public/about",
-    "content/about.md~",
     "img/cover.png",
     "img/kav.jpg",
     "img/file.jpg",
     "file.jpg",
     "img/folebra.png",
     "img/Pasted image.png",
-    "img",
     "content/posts/hvordan-spille.md",
-    "content/posts/Untitled.md",
     "themes/ananke/CHANGELOG.md",
     "themes/ananke/archetypes/default.md",
     "content/posts/18.08.md"
