@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tabell.md",
+                "file": "content/Posts/02.09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tabell"
+              "title": "02.09"
             }
           }
         ]
@@ -168,13 +168,13 @@
   },
   "active": "c8d0ec9438df11fc",
   "lastOpenFiles": [
+    "content/tabell.md",
     "content/regler.md",
     "content/Posts/02.09.md",
     "public/posts/02.09/index.html",
     "public/posts/02.09",
     "content/Posts/26.08.md",
     "content/Posts/01.09.md",
-    "content/tabell.md",
     "public/posts/26.08/index.html",
     "public/posts/26.08",
     "content/_index.md",
