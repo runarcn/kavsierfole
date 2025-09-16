@@ -6,7 +6,10 @@ featured_image = 'cover.png'
 | Navn      | Poeng |
 | :-------- | ----: |
 | Ola       |     3 |
+| Kaja | 2 |
 | Vilde | 2 |
+| Yrja | 1 |
+| Frida | 1 |
 | Johannes | 1 |
 | Tina G | 1 |
 | Tobias    |     1 |
@@ -18,7 +21,6 @@ featured_image = 'cover.png'
 | Jenny | 0 |
 | Sunniva | 0 |
 | Simen Mose | 0 |
-| Frida | 0 |
 | Oliver John | 0 |
 | Mina | 0 |
 | Tina H | 0 |
@@ -30,6 +32,6 @@ featured_image = 'cover.png'
 | Sune | 0 |
 
 
-Totalt antall fole: 71
+Totalt antall fole: 83
 
-*Sist oppdatert: 10.09*
+*Sist oppdatert: 16.09*
