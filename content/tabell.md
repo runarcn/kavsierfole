@@ -6,6 +6,7 @@ featured_image = 'cover.png'
 | Navn      | Poeng |
 | :-------- | ----: |
 | Ola       |     3 |
+| Frithjof  |     2 |
 | Kaja | 2 |
 | Vilde | 2 |
 | Yrja | 1 |
@@ -14,7 +15,6 @@ featured_image = 'cover.png'
 | Tina G | 1 |
 | Tobias    |     1 |
 | Ingebrigt |     1 |
-| Frithjof  |     1 |
 | Petter    |     0 |
 | Runar     |     0 |
 | Emilie    |     0 |
@@ -32,6 +32,6 @@ featured_image = 'cover.png'
 | Sune | 0 |
 
 
-Totalt antall fole: 83
+Totalt antall fole: 105
 
-*Sist oppdatert: 16.09*
+*Sist oppdatert: 23.09
