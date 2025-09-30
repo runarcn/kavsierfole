@@ -9,6 +9,7 @@ featured_image = 'cover.png'
 | Frithjof  |     2 |
 | Kaja | 2 |
 | Vilde | 2 |
+| Jenny | 1 |
 | Yrja | 1 |
 | Frida | 1 |
 | Johannes | 1 |
@@ -18,7 +19,6 @@ featured_image = 'cover.png'
 | Petter    |     0 |
 | Runar     |     0 |
 | Emilie    |     0 |
-| Jenny | 0 |
 | Sunniva | 0 |
 | Simen Mose | 0 |
 | Oliver John | 0 |
@@ -32,6 +32,6 @@ featured_image = 'cover.png'
 | Sune | 0 |
 
 
-Totalt antall fole: 105
+Totalt antall fole: 125
 
 *Sist oppdatert: 23.09
