@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/var/home/runarcn/Projects/kavsierfole",
+	"sourceRoot": "/home/runarcn/Documents/kavsierfole",
 	"sources": [
 		"ananke/css/main.css"
 	],

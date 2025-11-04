@@ -6,12 +6,12 @@ featured_image = 'cover.png'
 | Navn      | Poeng |
 | :-------- | ----: |
 | Ola       |     3 |
+| Frida | 2 |
 | Frithjof  |     2 |
 | Kaja | 2 |
 | Vilde | 2 |
 | Jenny | 1 |
 | Yrja | 1 |
-| Frida | 1 |
 | Johannes | 1 |
 | Tina G | 1 |
 | Tobias    |     1 |
@@ -34,4 +34,4 @@ featured_image = 'cover.png'
 
 Totalt antall fole: 125
 
-*Sist oppdatert: 23.09
+*Sist oppdatert: 04.11

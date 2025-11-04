@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-23T11:21:47+02:00</lastmod>
+    <lastmod>2025-11-04T14:46:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/04.11/</loc>
+    <lastmod>2025-11-04T14:46:24+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-23T11:21:47+02:00</lastmod>
+    <lastmod>2025-11-04T14:46:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/30.09/</loc>
+    <lastmod>2025-09-30T15:12:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/notat/</loc>
+    <lastmod>2025-09-23T15:34:07+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/23.09/</loc>
     <lastmod>2025-09-23T11:21:47+02:00</lastmod>
